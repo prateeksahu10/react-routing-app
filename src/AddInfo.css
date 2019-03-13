@@ -1,0 +1,21 @@
+.AddInfo {
+  margin: 10px auto;
+  border: 2px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+  width: 220px;
+  padding: 20px;
+  text-align: center;
+}
+
+.AddInfo label {
+  padding-right: 2px;
+  padding-bottom: 2px;
+}
+
+.AddInfo button {
+  float: right;
+}
+
+.AddInfo input {
+  margin: 2px;
+}
